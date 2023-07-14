@@ -1,0 +1,94 @@
+
+[
+  {
+    "img": "project-1",
+    "description": "elmansour website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
+    "demo": "https://elmansour.netlify.app/",
+    "code": "https://github.com/mazen-mahfouz/elmansour"
+  },
+  {
+    "img": "project-2",
+    "description": "houya website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind","html"],
+    "demo": "https://houya.netlify.app/",
+    "code": "https://github.com/mazen-mahfouz/houya"
+  },
+  {
+    "img": "project-3",
+    "description": "Rest countries website built with Vue, scss, tailwind and axios",
+    "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
+    "demo": "https://mazen-mahfouz-rest-countries.netlify.app/",
+    "code": "https://github.com/mazen-mahfouz/rest-countries"
+  },
+  {
+    "img": "project-4",
+    "description": "UI template built with HTML, CSS(sass) and JS.",
+    "skills": ["html", "sass","js"],
+    "demo": "http://mazen-mahfouz.github.io/web-dog/",
+    "code": "https://github.com/mazen-mahfouz/web-dog"
+  },
+  {
+    "img": "project-5",
+    "description": "Snake Game website built with HTML, CSS and JS(canvas js)",
+    "skills": ["html", "css","js", "canvas"],
+    "demo": "https://mazen-mahfouz.github.io/snake-game",
+    "code": "https://github.com/mazen-mahfouz/snake-game"
+  },
+  {
+    "img": "project-6",
+    "description": "Anime Tracke website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
+    "demo": "https://mazen-mahfouz.github.io/anime-tracke/",
+    "code": "https://github.com/mazen-mahfouz/anime-tracke"
+  },
+  {
+    "img": "project-7",
+    "description": "Todo List website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
+    "demo": "https://github.com/mazen-mahfouz/todo-list",
+    "code": "https://github.com/mazen-mahfouz/todo-list"
+  },
+  {
+    "img": "project-8",
+    "description": "UI template built with HTML, CSS(sass) and JS",
+    "skills": ["html", "sass","js"],
+    "demo": "https://mazen-mahfouz.github.io/Special-Design/",
+    "code": "https://github.com/mazen-mahfouz/Special-Design"
+  },
+  {
+    "img": "project-9",
+    "description": "game website built with HTML, CSS(scss, tailwind) and JS.",
+    "skills": ["html", "sass","js"],
+    "demo": "https://mazen-mahfouz.github.io/rock-paper-scissors-master/",
+    "code": "https://github.com/mazen-mahfouz/rock-paper-scissors-master"
+  },
+  {
+    "img": "project-10",
+    "description": "Github User Search website built with Vue, scss, tailwind and axios.",
+    "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
+    "demo": "https://mazen-mahfouz.github.io/github-user-search/",
+    "code": "https://github.com/mazen-mahfouz/github-user-search"
+  },
+  {
+    "img": "project-11",
+    "description": "game website built with HTML, CSS(scss, tailwind) and JS.",
+    "skills": ["html", "sass","js"],
+    "demo": "https://mazen-mahfouz.github.io/Tic-Tac-Toe-XO/",
+    "code": "https://github.com/mazen-mahfouz/Tic-Tac-Toe-XO"
+  },
+  {
+    "img": "project-12",
+    "description": "calculator app website built with HTML, CSS(scss, tailwind) and JS.",
+    "skills": ["html", "sass", "Tailwind","js"],
+    "demo": "https://github.com/mazen-mahfouz/calculator-app",
+    "code": "https://mazen-mahfouz.github.io/calculator-app/"
+  },
+  {
+    "img": "project-13",
+    "description": "game website built with HTML, CSS and JS.",
+    "skills": ["html", "css","js", "canvas"],
+    "demo": "https://mazen-mahfouz.github.io/firework/",
+    "code": "https://github.com/mazen-mahfouz/firework"
+  }
+]
