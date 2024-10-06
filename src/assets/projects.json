@@ -1,6 +1,62 @@
 
 [
   {
+    "img": "hrs",
+    "description": "hrs website built with vue3, scss and tailwind",
+    "skills": ["vue","sass","Tailwind", "api", "axios"],
+    "demo": "https://hrs.org.kw/",
+    "code": ""
+  },
+  {
+    "img": "elitehomeskwt",
+    "description": "elitehomeskwt website built with nuxt, scss and tailwind",
+    "skills": ["nuxt","sass","Tailwind", "api", "axios"],
+    "demo": "https://www.elitehomeskwt.com/",
+    "code": ""
+  },
+  {
+    "img": "elitehomeskwt",
+    "description": "elitehomeskwt website built with nuxt, scss and tailwind",
+    "skills": ["nuxt","sass","Tailwind", "api", "axios"],
+    "demo": "https://www.elitehomeskwt.com/",
+    "code": ""
+  },
+  {
+    "img": "flash",
+    "description": "flashwashapp website built with nuxt, scss and tailwind",
+    "skills": ["nuxt","sass","Tailwind", "api", "axios"],
+    "demo": "https://moteelz.com/",
+    "code": ""
+  },
+  {
+    "img": "moteelz",
+    "description": "moteelz website built with nuxt, typescript, scss and tailwind",
+    "skills": ["nuxt", "typescript","sass","Tailwind", "api", "axios"],
+    "demo": "https://moteelz.com/",
+    "code": ""
+  },
+  {
+    "img": "zahraacademy",
+    "description": "zahraacademy website built with React, next, scss and tailwind",
+    "skills": ["react", "next","sass","Tailwind", "api", "axios"],
+    "demo": "https://zahraacademy.com/",
+    "code": ""
+  },
+  {
+    "img": "mafhoom",
+    "description": "mafhoom website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind"],
+    "demo": "https://mafhoom.netlify.app/",
+    "code": "https://github.com/mazen-mahfouz/mafhoom"
+  },
+  {
+    "img": "invo-invoice",
+    "description": "invo-invoice website built with Vue, scss and tailwind",
+    "skills": ["vue", "vuex","sass","Tailwind"],
+    "demo": "https://invo-invoice.netlify.app/",
+    "code": "https://github.com/mazen-mahfouz/invo-invoice"
+  },
+  {
     "img": "project-1",
     "description": "elmansour website built with Vue, scss and tailwind",
     "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
@@ -20,6 +76,13 @@
     "skills": ["vue", "vuex","sass","Tailwind","api","axios"],
     "demo": "https://mazen-mahfouz-rest-countries.netlify.app/",
     "code": "https://github.com/mazen-mahfouz/rest-countries"
+  },
+  {
+    "img": "clinicareapp",
+    "description": "clinicareapp website built with Vue, scss, tailwind, api and axios",
+    "skills": ["vue", "vuex","sass","Tailwind"],
+    "demo": "https://clinicareapp.com/",
+    "code": "https://github.com/mazen-mahfouz/clinicare"
   },
   {
     "img": "project-4",

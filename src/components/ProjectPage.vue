@@ -6,7 +6,7 @@
       <div class="w-full flex flex-wrap justify-center items-stretch gap-[20px]">
         <div v-for="(project, index) in data" :key="index" class="bg-white dark:bg-slate-800 w-[95%] max-w-[280px] dark:shadow-none shadow-[0_0_25px_#726969] rounded-xl">
           <div>
-            <img :src="require('../image/' + project.img + '.png')" class="w-full h-full rounded-lg relative ring-1 self-center" alt="">
+            <img :src="require('../image/' + project.img + '.png')" class="w-full h-[155px] object-fit rounded-lg relative ring-1 self-center" alt="">
             <div class="p-2 text-center">
               <p class="opacity-90 text-sm my-2 text-[black] dark:text-[white] mb-[20px]">{{project.description}}</p>
               <div class="flex justify-around items-center p-2  bg-[#0f172a4d] rounded-lg mb-[15px]">

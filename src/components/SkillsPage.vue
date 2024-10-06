@@ -30,6 +30,7 @@
   import css from '../image/css.png'
   import js from '../image/js.png'
   import vue from '../image/vue.png'
+  import nuxt from '../image/nuxt.png'
   import vuex from '../image/vuex.png'
   import sass from '../image/sass.png'
   import tailwind from '../image/Tailwind.png'
@@ -54,6 +55,7 @@ export default {
         ['Css3', css, 'from-[#039be5] via-[#008de1] to-[#039be5]', 'shadow-[#039be5]'],
         ['Javascript', js, 'from-[#b49a0c] to-[#b49a0c] via-yellow-400', 'shadow-[#b49a0c]'],
         ['Vue', vue, 'from-[#7fc482] via-[#81c784] to-[#7fc482]', 'shadow-[#7fc482]'],
+        ['Nuxt', nuxt, 'from-[#7fc482] via-[#81c784] to-[#7fc482]', 'shadow-[#7fc482]'],
         ['Vuex', vuex, 'from-[#4fc08d] via-[#3f7d72] to-[#4fc08d]', 'shadow-[#4fc08d]'],
         ['Scss', sass, 'from-[#e75f8d] via-[#91366e] to-[#e75f8d]', 'shadow-[#e75f8d]'],
         ['Tailwind', tailwind, 'from-[#00acc1]  via-[#00acc1] to-[#00acc1]', 'shadow-[#00acc1]'],
